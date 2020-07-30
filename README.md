@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Banner for mikedklein](https://github.com/mikedklein/mikedklein/raw/master/assets/Logo-Header-01.svg)](https://mikedklein.com)
+<h1 align="center">#AlwaysBeMaking</h1>
 <!--
 **mikedklein/mikedklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
